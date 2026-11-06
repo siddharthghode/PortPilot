@@ -1,0 +1,121 @@
+[
+  {
+    "name": "PostgreSQL",
+    "port": 5432,
+    "protocol": "tcp",
+    "category": "database",
+    "description": "PostgreSQL relational database server"
+  },
+  {
+    "name": "MySQL",
+    "port": 3306,
+    "protocol": "tcp",
+    "category": "database",
+    "description": "MySQL database server"
+  },
+  {
+    "name": "MariaDB",
+    "port": 3306,
+    "protocol": "tcp",
+    "category": "database",
+    "description": "MariaDB relational database server"
+  },
+  {
+    "name": "MongoDB",
+    "port": 27017,
+    "protocol": "tcp",
+    "category": "database",
+    "description": "MongoDB document database"
+  },
+  {
+    "name": "Redis",
+    "port": 6379,
+    "protocol": "tcp",
+    "category": "cache",
+    "description": "Redis in-memory key-value data store"
+  },
+  {
+    "name": "Elasticsearch",
+    "port": 9200,
+    "protocol": "tcp",
+    "category": "search",
+    "description": "Elasticsearch RESTful search engine"
+  },
+  {
+    "name": "Kibana",
+    "port": 5601,
+    "protocol": "tcp",
+    "category": "analytics",
+    "description": "Kibana data visualization dashboard"
+  },
+  {
+    "name": "RabbitMQ",
+    "port": 5672,
+    "protocol": "tcp",
+    "category": "queue",
+    "description": "RabbitMQ AMQP message broker"
+  },
+  {
+    "name": "RabbitMQ Management",
+    "port": 15672,
+    "protocol": "tcp",
+    "category": "management",
+    "description": "RabbitMQ web management console"
+  },
+  {
+    "name": "Django",
+    "port": 8000,
+    "protocol": "tcp",
+    "category": "web-framework",
+    "description": "Django development server"
+  },
+  {
+    "name": "FastAPI",
+    "port": 8000,
+    "protocol": "tcp",
+    "category": "web-framework",
+    "description": "FastAPI / Uvicorn development server"
+  },
+  {
+    "name": "Flask",
+    "port": 5000,
+    "protocol": "tcp",
+    "category": "web-framework",
+    "description": "Flask development server"
+  },
+  {
+    "name": "Node.js",
+    "port": 3000,
+    "protocol": "tcp",
+    "category": "web-framework",
+    "description": "Node.js application server"
+  },
+  {
+    "name": "Next.js",
+    "port": 3000,
+    "protocol": "tcp",
+    "category": "web-framework",
+    "description": "Next.js development server"
+  },
+  {
+    "name": "React/Vite",
+    "port": 5173,
+    "protocol": "tcp",
+    "category": "frontend",
+    "description": "Vite dev server (React, Vue, Svelte)"
+  },
+  {
+    "name": "Nginx",
+    "port": 80,
+    "protocol": "tcp",
+    "category": "web-server",
+    "description": "Nginx HTTP server and reverse proxy"
+  },
+  {
+    "name": "HTTPS",
+    "port": 443,
+    "protocol": "tcp",
+    "category": "web-server",
+    "description": "Standard TLS/SSL secure web server"
+  }
+]
