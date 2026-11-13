@@ -50,7 +50,7 @@ portpilot --version
 pytest -q
 
 echo "=========================================================="
-echo "  PortPilot successfully installed in development mode!"
+echo "  PortPilot successfully installed in development mode!!!!!!"
 echo "  Run: source $VENV_DIR/bin/activate"
 echo "       portpilot --help"
 echo "=========================================================="
